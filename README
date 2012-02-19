@@ -8,3 +8,5 @@ Install these gems (there are probably more you need):
 rmail
 wicked_pdf
 wkhtmltopdf-binary
+
+test
